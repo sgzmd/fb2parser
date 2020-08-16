@@ -1,7 +1,7 @@
 package com.kursx.parser.fb2;
 
-import com.sun.istack.internal.NotNull;
-import com.sun.istack.internal.Nullable;
+import javax.annotation.NotNull;
+import javax.annotation.Nullable;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
